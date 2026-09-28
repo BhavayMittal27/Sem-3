@@ -1,5 +1,5 @@
 # STEP SEM-3 · CodInClub | Powered by BridgeLabz
-## Week 9 Category B Practice: Quiz & Concept Solutions
+## Week 8 Category B Practice: Quiz & Concept Solutions
 
 ---
 
